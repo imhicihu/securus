@@ -23,4 +23,4 @@ To the extent possible, all metadata was saved along with all related documentat
 
 ### License ###
 
-* The content of this project itself is unlicensed
+* The content of this project itself is [unlicensed](https://github.com/imhicihu/securus/main/LICENSE)
