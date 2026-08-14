@@ -23,4 +23,4 @@ En la medida de lo posible, se han guardado todos los metadatos junto con toda l
 
 ### Licencia ###
 
-* El contenido de este proyecto no está sujeto a ninguna licencia
+* El contenido de este proyecto no está sujeto a ninguna [licencia](https://github.com/imhicihu/securus/blob/main/LICENSE)
