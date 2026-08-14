@@ -7,7 +7,8 @@
 
 ## Rationale / [Motivación](LEEME.md)
 Planning a backup account for repositories hosted on GitHub seems to be a regular task. 
-But sometimes this is not the usual. Following certain rules, a resilient `plan b` in an age of redundant [data obliterations](https://openai.com/index/hugging-face-model-evaluation-security-incident/) can be successful
+But sometimes this is not the usual. Following certain rules, a resilient `plan b` in an age of redundant [data obliterations](https://openai.com/index/hugging-face-model-evaluation-security-incident/) can be successful.
+To the extent possible, all metadata was saved along with all related documentation. Some repositories are [not visible](https://github.com/imhicihu/ArchWeb/blob/main/images/Screenshot_2026-07-17_at_2.20.37.png) for security reasons
 ### Code of Conduct
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
