@@ -13,6 +13,13 @@ To the extent possible, all metadata was saved along with all related documentat
 
 ![GitLab repositories](images/Screenshot_2026-08-14_at_12.47.34_PM.png)
 
+## Cron job
+
+```
+0 17 15 JUL *
+```
+> “At 17:00 on day-of-month 15 in July.”
+
 ### Code of Conduct
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
