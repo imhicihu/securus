@@ -18,7 +18,7 @@ To the extent possible, all metadata was saved along with all related documentat
 ```
 0 17 15 JUL *
 ```
-> “At 17:00 on day-of-month 15 in July.”
+> “_At 17:00 on day-of-month 15 in July once a year_”
 
 ### Code of Conduct
 
