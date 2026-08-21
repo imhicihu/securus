@@ -14,12 +14,12 @@ Una declaración final: redundancia es una condición _sine qua non_
 
 ![Repositorios de GitLab](images/Screenshot_2026-08-14_at_12.47.34_PM.png)
 
-## Cron job
+## [Cron](https://es.wikipedia.org/wiki/Cron_(Unix)) job
 
 ```
 0 17 15 JUL *
 ```
-> “At 17:00 on day-of-month 15 in July.”
+> “A las 17:00 horas el día 15 de julio, cada año”
 
 ### Código de conducta
 
