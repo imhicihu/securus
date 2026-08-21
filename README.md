@@ -17,7 +17,7 @@ A final statement: redundancy is a _sine qua non_ condition
 ## [Cron](https://en.wikipedia.org/wiki/Cron) job
 
 ```
-0 17 15 7 *
+0 17 15 7 * /usr/bin/python3 /home/usuario/tarea.py
 ```
 > “_At 17:00 on day-of-month 15 in July once a year_”
 
