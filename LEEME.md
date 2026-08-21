@@ -17,7 +17,7 @@ Una declaración final: redundancia es una condición _sine qua non_
 ## [Cron](https://es.wikipedia.org/wiki/Cron_(Unix)) job
 
 ```
-0 17 15 7 *
+0 17 15 7 * /usr/bin/python3 /home/usuario/tarea.py
 ```
 > “A las 17:00 horas el día 15 de julio, cada año”
 
