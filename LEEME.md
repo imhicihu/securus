@@ -10,6 +10,7 @@
 Planificar una [cuenta de respaldo](https://gitlab.com/users/IMHICIHU/projects) para los repositorios alojados en GitHub parece ser una tarea rutinaria.
 s. Pero a veces esto no es lo habitual. Siguiendo ciertas reglas, un "plan B" resiliente en una época de [destrucción de datos](https://openai.com/index/hugging-face-model-evaluation-security-incident/) puede resultar eficaz.
 En la medida de lo posible, se han guardado todos los metadatos junto con toda la documentación relacionada. Algunos repositorios [no son visibles](https://github.com/imhicihu/ArchWeb/blob/main/images/Screenshot_2026-07-17_at_2.20.37.png) por motivos de seguridad
+Una declaración final: redundancia es una condición _sine qua non_
 
 ![Repositorios de GitLab](images/Screenshot_2026-08-14_at_12.47.34_PM.png)
 
