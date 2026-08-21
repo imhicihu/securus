@@ -14,7 +14,7 @@ A final statement: redundancy is a _sine qua non_ condition
 
 ![GitLab repositories](images/Screenshot_2026-08-14_at_12.47.34_PM.png)
 
-## Cron job
+## [Cron](https://en.wikipedia.org/wiki/Cron) job
 
 ```
 0 17 15 JUL *
@@ -25,7 +25,7 @@ A final statement: redundancy is a _sine qua non_ condition
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
 
-### Legal ###
+### Legal
 
 * All trademarks are the property of their respective owners
 
