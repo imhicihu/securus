@@ -14,6 +14,8 @@ Una declaración final: redundancia es una condición _sine qua non_
 
 ![Repositorios de GitLab](images/Screenshot_2026-08-14_at_12.47.34_PM.png)
 
+> <https://gitlab.com/users/IMHICIHU/projects>
+
 ## [Cron](https://es.wikipedia.org/wiki/Cron_(Unix)) job
 
 ```
