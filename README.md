@@ -14,6 +14,8 @@ A final statement: redundancy is a _sine qua non_ condition
 
 ![GitLab repositories](images/Screenshot_2026-08-14_at_12.47.34_PM.png)
 
+> <https://gitlab.com/users/IMHICIHU/projects>
+
 ## [Cron](https://en.wikipedia.org/wiki/Cron) job
 
 ```
