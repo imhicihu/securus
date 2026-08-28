@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.png?raw=true" alt="Logotipo de securus" weigh="420" height="420"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de securus" weight="420" height="420"/>
 </p>
 
 ![internaluse-green](images/internal_use_-stable-green.svg)
