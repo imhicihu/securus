@@ -31,6 +31,11 @@ A final statement: redundancy is a _sine qua non_ condition
 |:--|:--|:--|
 | [Enlaces](https://enlacesimhicihu.vercel.app/) | &#10004; | &#10004; |
 | [website](https://imhicihu.conicet.gov.ar/)| &#10004; | &#10004; |
+| [Calendar](https://zoom-calendar.vercel.app/)| &#10004; | &#10004; |
+| [biblio-searcher](https://biblio-searcher-v2.vercel.app/)| &#10004; | &#10004; |
+| [TranscriptIO](https://hablante.surge.sh/)| &#10004; | &#10004; |
+| [Temas Medievales](https://temasmedievales.imhicihu-conicet.gov.ar/index.php/TemasMedievales) | No | No |
+| [Status page](https://imhicihu.statuspage.io/)| &#10004; | &#10004; |
 
 
 ### Code of Conduct
