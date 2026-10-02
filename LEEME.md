@@ -23,6 +23,23 @@ Una declaración final: redundancia es una condición _sine qua non_
 ```
 > “A las 17:00 horas el día 15 de julio, cada año”
 
+### Plan
+
+| Sitio | Repositorio GitHub | Copia de seguridad |
+|:--|:--|:--|
+| [Enlaces](https://enlacesimhicihu.vercel.app/) | &#10004; | &#10004; |
+| [website](https://imhicihu.conicet.gov.ar/)| &#10004; | &#10004; |
+| [Calendar](https://zoom-calendar.vercel.app/)| &#10004; | &#10004; |
+| [biblio-searcher](https://biblio-searcher-v2.vercel.app/)| &#10004; | &#10004; |
+| [TranscriptIO](https://hablante.surge.sh/)| &#10004; | &#10004; |
+| [Temas Medievales](https://temasmedievales.imhicihu-conicet.gov.ar/index.php/TemasMedievales) | No | No |
+| [Status page](https://imhicihu.statuspage.io/)| &#10004; | &#10004; |
+| [DILA](https://imhicihu.gitbook.io/dila)| &#10004; | &#10004; |
+| [Rescate digital](https://rescatedigital.vercel.app/)| &#10004; | &#10004; |
+| [RegRex](https://reg-rex.vercel.app/)| &#10004; | &#10004; |
+| [EditorCo-digo](https://editorco-digo.vercel.app/)| &#10004; | &#10004; |
+| [Biblioteca](https://catalogo.imhicihu-conicet.gov.ar/) | No | No |
+
 ### Código de conducta
 
 * Por favor, consulta nuestro [Código de conducta](código_de_conducta.md)
