@@ -16,12 +16,22 @@ A final statement: redundancy is a _sine qua non_ condition
 
 > <https://gitlab.com/users/IMHICIHU/projects>
 
-## [Cron](https://en.wikipedia.org/wiki/Cron) job
+### [Cron](https://en.wikipedia.org/wiki/Cron) job
 
+---
 ```
 0 17 15 7 * /usr/bin/python3 /home/usuario/tarea.py
 ```
 > “_At 17:00 on day-of-month 15 in July once a year_”
+
+---
+### Plan
+
+| Site | Repository GitHub | Backup |
+|:--|:--|:--|
+| [Enlaces](https://enlacesimhicihu.vercel.app/) | &#10004; | &#10004; |
+| [website](https://imhicihu.conicet.gov.ar/)| &#10004; | &#10004; |
+
 
 ### Code of Conduct
 
